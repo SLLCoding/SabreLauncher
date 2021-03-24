@@ -1,0 +1,4 @@
+{
+  "version-comment": "Specify release tag (e.g. 0.13), dev (latest development release) or latest (latest release).",
+  "version": "latest"
+}
